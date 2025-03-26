@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn
+streamlit
+requests
+beautifulsoup4
+textblob
+gtts
+googletrans==4.0.0-rc1
+urllib3
